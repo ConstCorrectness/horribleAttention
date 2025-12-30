@@ -1,4 +1,3 @@
-
 **horribleAttention**
 
 - **Project:** A small experimental collection exploring attention mechanisms, demos, and tooling.
