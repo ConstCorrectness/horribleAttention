@@ -26,9 +26,6 @@ streamlit run streamlit_app.py
 **Repository Layout**
 - **attention.html:** Static attention visualization/demo.
 - **streamlit_app.py:** Streamlit demo UI and examples.
-- **main.py / main.cc:** Small runnable examples (Python and C++).
-- **horribleLLM.py, horribleliveapi.py:** experimental LLM glue code and local experiments.
-- **alphageometry/**: Related experiments and helper scripts used in geometry/attention tests.
 
 **Goals & Philosophy**
 - Keep experiments simple, educational, and easy to modify.
